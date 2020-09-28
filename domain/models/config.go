@@ -9,7 +9,7 @@ type database struct {
 	User     string
 	Password string
 	Name     string
-	Host     string
+	Host     string 
 	Port     int
 }
 
