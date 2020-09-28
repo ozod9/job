@@ -1,0 +1,11 @@
+[application]
+Name = "balanceapp"
+Version = "1.0.0"
+
+
+[database]
+User    = ${DB_USER}
+Password = ${DB_PASSWORD}
+Name     = ${DB_NAME}
+Host = ${DB_HOST} 
+Port = 5432
